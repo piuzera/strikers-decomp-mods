@@ -38,9 +38,9 @@ A playable proof of concept for expanding **Super Mario Strikers**—and a start
 
 ### Full demo
 
-<video src="https://raw.githubusercontent.com/piuzera/strikers-decomp-mods/main/media/demo.webm" controls preload="none" poster="https://raw.githubusercontent.com/piuzera/strikers-decomp-mods/main/media/gameplay.png" width="712"></video>
+[![Animated gameplay preview—click to open the complete recording](media/demo-preview.gif)](media/demo.webm)
 
-[Open the recording](media/demo.webm) if your GitHub client does not display a player.
+*8-second inline preview · [Watch the full 86-second recording with audio (WebM, 6.2 MiB) ↗](media/demo.webm)*
 
 ## Play
 

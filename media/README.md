@@ -8,10 +8,13 @@ User-provided captures of the completed proof of concept:
 - `gameplay.png`: Screenshot 4, expanded-team gameplay on the enlarged Palace.
 - `demo.webm`: Recording 1, the full ~86-second title-screen-to-match recording.
   Converted from the original H.264/AAC MP4 to VP9/Opus WebM, 712×530 at 30 fps.
+- `demo-preview.gif`: 8-second gameplay excerpt from that recording, 360 pixels
+  wide at 8 fps, used for a reliable inline animated preview.
 
-The README includes a standard video element and a link fallback. GitHub/client
-support for embedded media varies; converting to WebM does not force every
-client to show an inline player. No autoplay is requested.
+GitHub's published README renderer strips repository-hosted video elements.
+The README therefore embeds an animated image linked to the full WebM, rather
+than leaving a missing player. WebM conversion alone does not enable a native
+README player; a GitHub-uploaded video attachment URL is needed for that route.
 
 Gameplay contains Nintendo/Next Level Games content and club marks. These
 captures are not relicensed as an MIT or CC0 asset collection.

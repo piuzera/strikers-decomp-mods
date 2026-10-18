@@ -3,3 +3,4 @@ modding/source/*.patch -whitespace
 *.bsdiff binary
 *.png binary
 *.webm binary
+*.gif binary
