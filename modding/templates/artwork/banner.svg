@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="64" viewBox="0 0 256 64">
+  <rect x="8" y="8" width="240" height="48" rx="12" fill="#166349"/>
+  <path d="M22 18h28v28H22z" fill="#f2f7ee"/>
+  <text x="144" y="40" font-family="sans-serif" font-weight="bold" font-size="22" fill="#f2f7ee" text-anchor="middle">MY CLUB</text>
+</svg>

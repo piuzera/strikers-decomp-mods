@@ -1,0 +1,11 @@
+{
+  "purpose": "Planning values; implement in tools/bigfield.py, not consumed automatically",
+  "stadium": "The_Palace",
+  "scale": 2.0,
+  "retail_half_extents": [20.60211, 12.0825],
+  "world_scale_axes": ["X", "Y"],
+  "keep_height": true,
+  "goal_geometry": "retain size and translate X to new goal line",
+  "visibility_radius": "multiply by max(1, abs(scale))",
+  "formations": "all 41 definitions must provide P0 through P9"
+}

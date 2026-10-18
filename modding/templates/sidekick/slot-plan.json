@@ -1,0 +1,11 @@
+{
+  "purpose": "Planning template, not an automatic sidekick injector",
+  "example_sidekick_id": 4,
+  "example_character_class": 23,
+  "example_identity": "human",
+  "your_identity": "my_sidekick",
+  "your_display_name": "MY SIDEKICK",
+  "native_motion_family": "Daisy",
+  "fixed_kit": true,
+  "requirements": ["new sidekick and class counts", "independent template cache", "all-captain asset/audio routing", "FE grid and cup screens", "test a full team of the new sidekick"]
+}

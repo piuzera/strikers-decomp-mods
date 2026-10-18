@@ -1,0 +1,30 @@
+{
+  "url": "https://github.com/yannicksuter/smstrikers-decomp.git",
+  "commit": "d1f357ffeb1d8e89311edebf9a4b304b05ece7bb",
+  "patch_sha256": "1647411be462723741aecf46d7b5298c8c5a5acf424a7179c5e3b5c769247dc7",
+  "overlay_sha256": {
+    "tools/bigfield.py": "8235a1f7a10a39b83f8697179d331b88278a655537a00521537cfb8f77da323f",
+    "tools/combined_mod.py": "3d837d7cab616bd44381b9790e339f76198bb40c6a82ff8cab59d06a53dfd945",
+    "tools/expand_formation_sets.py": "91973cf06a17caff8996cc2ff503ea0b5792224577eb0f4e0562fbb90621d788",
+    "tools/expanded_runtime.py": "d926c8903bbf366e3482713e5da551f5d306ae1e3f2379fb069cebc4d5227e58",
+    "tools/export_human_player.py": "479e05cd97e6bff3149e44a0cfd0fa053f151c20bc05bc85e66b5032e2a10db9",
+    "tools/export_palmeiras.py": "a1b51a4dba2984620f137851246c6f670cdf430dfa0153c600719dc83e3f267c",
+    "tools/extract_native_references.py": "bc52affa88dcb804f5422cbc5bda874a4ad43b882d6baa2811a70f6e8318843d",
+    "tools/human_sidekick.py": "8491d579dde4324a0c8553748f7f98dbb15a77101783788005b83a895448a13f",
+    "tools/inspect_strikers_assets.py": "a7917d21487691348b742fcf4d2993f90d4bbaf5c3bc41c481a2955bad72fdd6",
+    "tools/native_ui_art.py": "c096c6b38550c13e844cf1c75d5edbd2bffe785b26423477de7e5608ab252c3e",
+    "tools/palmeiras.py": "3186115afd475478fcfe7526703a022b5c162eb5d6c0a4e3dbcb5445093d14f1",
+    "tools/palmeiras_team.py": "01fe98d04108ffe3fa4386fef4b0f6ace176638ca599e50dfe7c74b108a3bbfb",
+    "tools/palmeiras_texture.py": "b896f844e0b75cb915cc32a05fae900965f36eba5a75e3b31333fdc5484a19d1",
+    "tools/strikers_mesh.py": "bcffbfb6f55a0425ef19578726bd9c441cb023eec5de1cce69ed8515af48fcce",
+    "tools/test_bigfield.py": "53f92b4ffd36499aee154ab579651fc30cb930b81ce7ad429306b6b3c5072a06",
+    "tools/test_graphics_memory.py": "37c6161fdb2168a0e0425625516066a8bf5895f892e6af5c9e7e5bf6f109e3ad",
+    "tools/test_loading_memory.py": "f1b3c997a6707f35b0470d6aca589451fbc5e12dbd00134f8d768e7f47e578a0",
+    "tools/test_native_ui_art.py": "ab11b87cb7163bb9b0cb1f60f325f83b9406a89635717c2fdbb9babbd2241c3a",
+    "tools/test_export_palmeiras.py": "acd590c60001543a721c26b9ac3275b3a37398d34745aed52f123cb07d41cfec",
+    "tools/test_strikers_mesh.py": "403008c518b0ec2fb5fd6c3f2d6e39cbb7911ed6fd2e350a0e5f734b5afbd7a0",
+    "mods/expand-team/FormationSets.ini": "f10282c20f37cafa2ddd1fb976897c782c101468aa1c12e36dc29988cec24293",
+    "mods/palmeiras/assets/.gitignore": "f6a8cd8408e20c49d55644eb7f97687bbee76cbec37b007c247b353a9cf400ed"
+  },
+  "licensing": "Overlay contributions retain their existing CC0 dedication where applicable; source diffs are mixed/game-derived, not MIT. See NOTICE.md."
+}

@@ -1,0 +1,5 @@
+# Preserve source-diff context verbatim, including blank context lines.
+modding/source/*.patch -whitespace
+*.bsdiff binary
+*.png binary
+*.webm binary

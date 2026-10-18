@@ -1,0 +1,11 @@
+{
+  "format": "palmeiras-player-intermediate-v1",
+  "note": "Schema illustration only: replace the placeholder bone ID with a real native Daisy bone ID and supply a complete fitted mesh. This triangle is not a playable character.",
+  "meshes": [{
+    "name": "example_triangle",
+    "positions": [[0, 0, 0], [0.1, 0, 0], [0, 0, 0.1]],
+    "weights": [{"0x00000000": 1}, {"0x00000000": 1}, {"0x00000000": 1}],
+    "materials": [{"base_color": [1, 1, 1, 1]}],
+    "triangles": [{"vertices": [0, 1, 2], "normal": [0, -1, 0], "material": 0, "uvs": [[0, 0], [1, 0], [0, 1]]}]
+  }]
+}

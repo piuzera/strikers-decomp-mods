@@ -1,0 +1,12 @@
+{
+  "purpose": "Planning template, not a C++ roster generator",
+  "example_team_id": 9,
+  "example_identity": "palmeiras",
+  "your_identity": "my_club",
+  "your_display_name": "MY CLUB",
+  "native_motion_family": "Daisy",
+  "voice_family": "Luigi",
+  "selection_cell": "must be added in C++ and every relevant FEN",
+  "model_files": ["MyClub.glg", "MyClub_blend.glg", "MyClub.glt"],
+  "requirements": ["unique team/model/cache IDs", "FE navigation and presentation", "localization key", "audio mappings", "resource aliases", "opponent and replay testing"]
+}

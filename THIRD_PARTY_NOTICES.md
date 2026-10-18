@@ -5,6 +5,13 @@ tests and documentation authored for this release, to the extent the author
 controls those rights. It does not grant rights in the game, third-party code,
 club marks, reference artwork or other third-party material.
 
+The later creator kit includes existing contribution files under
+`modding/overlay/` and a focused source diff under `modding/source/`.
+Those are not covered by a blanket MIT relicensing: applicable prior CC0
+dedications and upstream/game-derived rights remain. See
+[modding/NOTICE.md](modding/NOTICE.md) for that boundary. Screenshots and the demo
+are gameplay media, not an MIT asset pack.
+
 ## Game and decompilation
 
 Super Mario Strikers / Mario Smash Football is a Nintendo / Next Level Games
@@ -32,8 +39,10 @@ The reconstruction also identifies eCos-derived math routines with GPLv2-or-late
 terms and file-level linking exceptions, and Sun fdlibm notices. Those routines
 are not installer code or newly authored MIT material. Consult the upstream
 [source tree](https://github.com/yannicksuter/smstrikers-decomp)
-and relevant file headers for their terms. No proprietary compiler/runtime/SDK
-source is included in this patch repository.
+and relevant file headers for their terms. The creator source diff contains
+reconstructed game/runtime/SDK context around modified code; it is not
+represented as MIT-licensed material. No compiler binaries, full SDK
+distribution or complete upstream source tree is included.
 
 ## Artwork and marks
 
