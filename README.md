@@ -6,7 +6,7 @@
 
 A playable proof of concept for expanding **Super Mario Strikers**—and a starting point for your own mods.
 
-[**Download v1.0.0**](https://github.com/piuzera/strikers-decomp-mods/releases/tag/v1.0.0) · [**Install**](docs/install.md) · [**Create a mod**](modding/README.md) · [**Watch the demo**](media/demo.webm)
+[**Download v1.0.0**](https://github.com/piuzera/strikers-decomp-mods/releases/tag/v1.0.0) · [**Install**](docs/install.md) · [**Create a mod**](modding/README.md) · [**Watch the demo**](https://streamable.com/v007kw)
 
 ![11-a-side Palmeiras versus Mario on the enlarged Palace pitch](media/gameplay.png)
 
@@ -32,15 +32,15 @@ A playable proof of concept for expanding **Super Mario Strikers**—and a start
   </tr>
   <tr>
     <td><img src="media/match-ready.png" alt="Pre-match screen with Palmeiras and Human facing Mario and Toad" width="100%"><br><strong>03 · Ready up</strong><br>Custom crest, portraits and matchup presentation.</td>
-    <td><a href="media/demo.webm"><img src="media/gameplay.png" alt="Watch the complete title-screen-to-match demo" width="100%"></a><br><strong>04 · Watch it in motion</strong><br><a href="media/demo.webm">86-second demo: title screen → selection → gameplay ↗</a></td>
+    <td><a href="https://streamable.com/v007kw"><img src="media/gameplay.png" alt="Watch the complete title-screen-to-match demo on Streamable" width="100%"></a><br><strong>04 · Watch it in motion</strong><br><a href="https://streamable.com/v007kw">86-second demo: title screen → selection → gameplay ↗</a></td>
   </tr>
 </table>
 
 ### Full demo
 
-[![Animated gameplay preview—click to open the complete recording](media/demo-preview.gif)](media/demo.webm)
+[![Animated gameplay preview—watch the complete recording on Streamable](media/demo-preview.gif)](https://streamable.com/v007kw)
 
-*8-second inline preview · [Watch the full 86-second recording with audio (WebM, 6.2 MiB) ↗](media/demo.webm)*
+*8-second inline preview · [Watch the full 86-second recording with audio on Streamable ↗](https://streamable.com/v007kw)*
 
 ## Play
 
