@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+game/
+*-dolphin-user/
+*.iso
+*.gcm
+*.rvz
+*.dol
+*.elf
+*.blend
+*.glb
+dist/
